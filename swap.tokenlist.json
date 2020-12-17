@@ -25,6 +25,62 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x560a20eddeddf84217221aef0d5ca7d7ae7ae798.png"
     },
     {
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "chainId": 1,
+      "name": "SushiSwap",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png"
+    },
+    {
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "chainId": 1,
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
+    },
+    {
+      "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+      "chainId": 1,
+      "name": "SushiBar",
+      "symbol": "xSUSHI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
+    },
+    {
+      "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+      "chainId": 1,
+      "name": "Cream",
+      "symbol": "CREAM",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x2ba592f78db6436527729929aaf6c908497cb200.png"
+    },
+    {
+      "address": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
+      "chainId": 1,
+      "name": "cVaultFinance",
+      "symbol": "CORE",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x62359ed7505efc61ff1d56fef82158ccaffa23d7.png"
+    },
+    {
+      "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+      "chainId": 1,
+      "name": "Keep3rV1",
+      "symbol": "KP3R",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44.png"
+    },
+    {
+      "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+      "chainId": 1,
+      "name": "Audius",
+      "symbol": "AUDIO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12913/small/AudiusCoinLogo_2x.png?1603425727"
+    },
+    {
       "name": "Base Protocol",
       "address": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
       "symbol": "BASE",
