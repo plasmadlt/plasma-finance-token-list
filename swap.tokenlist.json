@@ -38,7 +38,7 @@
       "name": "yearn.finance",
       "symbol": "YFI",
       "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
+      "logoURI": "https://tokens.1inch.exchange/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
     },
     {
       "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
@@ -54,7 +54,7 @@
       "name": "Cream",
       "symbol": "CREAM",
       "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x2ba592f78db6436527729929aaf6c908497cb200.png"
+      "logoURI": "https://tokens.1inch.exchange/0x2ba592f78db6436527729929aaf6c908497cb200.png"
     },
     {
       "address": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
@@ -62,7 +62,7 @@
       "name": "cVaultFinance",
       "symbol": "CORE",
       "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x62359ed7505efc61ff1d56fef82158ccaffa23d7.png"
+      "logoURI": "https://tokens.1inch.exchange/0x62359ed7505efc61ff1d56fef82158ccaffa23d7.png"
     },
     {
       "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
