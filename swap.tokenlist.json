@@ -17,6 +17,14 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay.png"
     },
     {
+      "name": "PBK",
+      "address": "0x560a20eddeddf84217221aef0d5ca7d7ae7ae798",
+      "symbol": "PBK",
+      "decimals": 2,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x560a20eddeddf84217221aef0d5ca7d7ae7ae798.png"
+    },
+    {
       "name": "Base Protocol",
       "address": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
       "symbol": "BASE",
