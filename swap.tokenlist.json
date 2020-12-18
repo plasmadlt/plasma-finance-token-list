@@ -25,6 +25,38 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/tokens/master/tokens/0x560a20eddeddf84217221aef0d5ca7d7ae7ae798.png"
     },
     {
+      "name": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
+      "address": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+      "symbol": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8.png"
+    },
+    {
+      "name": "Curve.fi yDAI/yUSDC/yUSDT/yBUSD",
+      "address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
+      "symbol": "Curve.fi yDAI/yUSDC/yUSDT/yBUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3b3ac5386837dc563660fb6a0937dfaa5924333b.png"
+    },
+    {
+      "name": "Curve.fi renBTC/wBTC/sBTC",
+      "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+      "symbol": "Curve.fi renBTC/wBTC/sBTC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3.png"
+    },
+    {
+      "name": "Curve.fi DAI/USDC/USDT",
+      "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+      "symbol": "Curve.fi DAI/USDC/USDT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490.png"
+    },
+    {
       "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
       "chainId": 1,
       "name": "SushiSwap",
