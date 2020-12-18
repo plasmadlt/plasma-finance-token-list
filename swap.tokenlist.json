@@ -27,7 +27,7 @@
     {
       "name": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
       "address": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
-      "symbol": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
+      "symbol": "yCRV",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8.png"
@@ -35,7 +35,7 @@
     {
       "name": "Curve.fi yDAI/yUSDC/yUSDT/yBUSD",
       "address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
-      "symbol": "Curve.fi yDAI/yUSDC/yUSDT/yBUSD",
+      "symbol": "crvBUSD",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B.png"
@@ -43,7 +43,7 @@
     {
       "name": "Curve.fi renBTC/wBTC/sBTC",
       "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
-      "symbol": "Curve.fi renBTC/wBTC/sBTC",
+      "symbol": "crvBTC",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3.png"
@@ -51,7 +51,7 @@
     {
       "name": "Curve.fi DAI/USDC/USDT",
       "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
-      "symbol": "Curve.fi DAI/USDC/USDT",
+      "symbol": "y3Crv",
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490.png"
