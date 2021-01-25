@@ -27,13 +27,13 @@ Address contract must be ***checksummed***
 
 ```
 {
-         "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
-         "chainId": 1,
-         "name": "Plasma",
-         "symbol": "PPAY",
-         "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
-      },
+ "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
+ "chainId": 1,
+ "name": "Plasma",
+ "symbol": "PPAY",
+ "decimals": 18,
+ "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
+},
 ```
 
 ## 4. Make a new PR (pull request)
