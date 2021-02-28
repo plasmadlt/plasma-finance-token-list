@@ -3908,8 +3908,8 @@
       {
          "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
          "chainId": 1,
-         "name": "yUSD YVAULT YCURVE",
-         "symbol": "yUSD-YVAUL-YCURVE",
+         "name": "yearnCurve.fiyDAIyUSDCyUSDTyTUSD",
+         "symbol": "yUSD",
          "tags": [],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5dbcf33d8c2e976c6b560249878e6f1491bca25c.png"
@@ -5488,7 +5488,7 @@
          "address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
          "chainId": 1,
          "name": "Curve.fi yBUSD",
-         "symbol": "Curvefi-yBUSD",
+         "symbol": "cyBUSD",
          "tags": [],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B.png"
