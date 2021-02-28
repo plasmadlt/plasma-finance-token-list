@@ -3365,7 +3365,7 @@
          "address": "0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e",
          "chainId": 1,
          "name": "PieDAO USD",
-         "symbol": "PieDAO USD",
+         "symbol": "PieDAOUSD",
          "tags": [],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e.png"
