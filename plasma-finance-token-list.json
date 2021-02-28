@@ -26,7 +26,7 @@
       },
       "stable": {
          "name": "Stablecoin",
-         "description": "Stablecoins may be pegged to a currency like the U.S. dollar or to a commodity's price such as gold"
+         "description": "Stablecoins may be pegged to a currency like the U.S. dollar or to a commoditys price such as gold"
       },
       "alliance": {
          "name": "Plasma Alliance",
@@ -4723,7 +4723,7 @@
       {
          "address": "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab",
          "chainId": 1,
-         "name": "Aave Interest Uniswap",
+         "name": "Aave Interest Uni",
          "symbol": "aUNIv1",
          "tags": [],
          "decimals": 18,
