@@ -3401,7 +3401,7 @@
          "address": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
          "chainId": 1,
          "name": "LP yCurve",
-         "symbol": "LP-yCurve",
+         "symbol": "LPyCurve",
          "tags": [
             "pools"
          ],
