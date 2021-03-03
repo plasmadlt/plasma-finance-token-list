@@ -42,7 +42,7 @@
       },
       "eth2": {
          "name": "Eth 2.0 Staking",
-         "description": "Eth 2.0 Staking Tokens"
+         "description": "Eth 2 Staking Tokens"
       },
       "pools": {
          "name": "Pools",
