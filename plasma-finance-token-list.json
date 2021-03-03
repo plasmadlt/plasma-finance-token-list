@@ -41,7 +41,7 @@
          "description": "Wrapped tokens pegged to the value of cryptocurrency from another chain"
       },
       "eth2": {
-         "name": "Eth 2.0 Staking",
+         "name": "Eth 2 Staking",
          "description": "Eth 2 Staking Tokens"
       },
       "pools": {
