@@ -5627,7 +5627,8 @@
          "name": "Lido Staked Ether",
          "symbol": "stETH",
          "tags": [
-            "defi"
+            "defi",
+            "eth2"
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png"
