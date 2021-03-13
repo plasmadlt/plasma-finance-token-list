@@ -440,6 +440,18 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
       },
       {
+         "address": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
+         "chainId": 1,
+         "name": "Kylin Network",
+         "symbol": "KYL",
+         "tags": [
+            "defi",
+            "alliance"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C.png"
+      },
+      {
          "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
          "chainId": 1,
          "name": "Raiden Network",
