@@ -1,13 +1,13 @@
 # Plasma.Finance Token List
- https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-token-list.json
+https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-token-list.json
 
-See https://tokenlists.org/.
+See https://tokenlists.org/
 
 # Add token in Token List 
 ## 1. Press on Fork in the top right corner, wait for process to complete.
 
 ```
-git clone https://github.com/plasmadlt/token-list
+git clone https://github.com/plasmadlt/plasma-finance-token-list
 ```
 
 ## 2. Add your token image in Assets
@@ -25,8 +25,7 @@ File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-
 
 ## 3.1 Add your token data in swap.tokenlist.json
 
-Address contract must be ***checksummed***
-Check or convert your address in checksummed address here: https://web3-tools.netlify.app/
+Address contract must be ***checksummed***. Check or convert your address in checksummed address here: https://web3-tools.netlify.app/
 
 ```
 {
@@ -93,7 +92,7 @@ You can add any tag from the next list to your token. Use no more than 3 tags.
    },
 ```
 
-## 3.3 Add your token on Plasma.Finance Market page
+## 3.3 Add your token to Plasma.Finance Decentralized Market Page + Create token page
 
 To add your token on our market and create page for it, please fork our second token list https://github.com/plasmadlt/plasma-finance-market-tokenlist and add your token there also.
 
