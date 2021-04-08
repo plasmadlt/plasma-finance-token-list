@@ -6135,6 +6135,18 @@
          "tags": [],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x626E8036dEB333b408Be468F951bdB42433cBF18.png"
+      },
+      {
+         "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+         "chainId": 1,
+         "name": "Sheesha Finance",
+         "symbol": "SHEESHA",
+         "tags": [
+            "alliance",
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.png"
       }
    ]
 }
