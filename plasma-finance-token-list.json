@@ -6147,6 +6147,141 @@
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.png"
+      },
+      {
+         "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+         "chainId": 1,
+         "name": "Boson Protocol",
+         "symbol": "BOSON",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xC477D038d5420C6A9e0b031712f61c5120090de9.png"
+      },
+      {
+         "address": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+         "chainId": 1,
+         "name": "Kattana",
+         "symbol": "KTN",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x491E136FF7FF03E6aB097E54734697Bb5802FC1C.png"
+      },
+      {
+         "address": "0x0309c98B1bffA350bcb3F9fB9780970CA32a5060",
+         "chainId": 1,
+         "name": "Defi Pulse Index",
+         "symbol": "BDPI",
+         "tags": [
+            "defi",
+            "indexes"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060.png"
+      },
+      {
+         "address": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
+         "chainId": 1,
+         "name": "NFT Index",
+         "symbol": "NFTI",
+         "tags": [
+            "nft",
+            "indexes"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c.png"
+      },
+      {
+         "address": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf",
+         "chainId": 1,
+         "name": "Polkalokr",
+         "symbol": "LKR",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf.png"
+      },
+      {
+         "address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
+         "chainId": 1,
+         "name": "Equalizer",
+         "symbol": "EQZ",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0.png"
+      },
+      {
+         "address": "0xf30547ff2df1f1cbe5c8dd758b3dd098c856e38f",
+         "chainId": 1,
+         "name": "RAI Finance",
+         "symbol": "RAI",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf30547ff2df1f1cbe5c8dd758b3dd098c856e38f.png"
+      },
+      {
+         "address": "0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb",
+         "chainId": 1,
+         "name": "BasketDAO",
+         "symbol": "BASK",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb.png"
+      },
+      {
+         "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+         "chainId": 1,
+         "name": "Liquity USD",
+         "symbol": "LUSD",
+         "tags": [
+            "defi",
+            "stable"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.png"
+      },
+      {
+         "address": "0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9",
+         "chainId": 1,
+         "name": "Gains",
+         "symbol": "GAINS",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xd9b312d77bc7bed9b9cecb56636300bed4fe5ce9.png"
+      },
+      {
+         "address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+         "chainId": 1,
+         "name": "Poolz Finance",
+         "symbol": "POOLZ",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x69a95185ee2a045cdc4bcd1b1df10710395e4e23.png"
+      },
+      {
+         "address": "0xD7e0F80FB28233bdde0006c50568606A8feb964C",
+         "chainId": 1,
+         "name": "Australian Dollar",
+         "symbol": "AUDT",
+         "tags": [
+            "stable"
+         ],
+         "decimals": 6,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xD7e0F80FB28233bdde0006c50568606A8feb964C.png"
       }
    ]
 }
