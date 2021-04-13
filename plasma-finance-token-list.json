@@ -6282,6 +6282,17 @@
          ],
          "decimals": 6,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xD7e0F80FB28233bdde0006c50568606A8feb964C.png"
+      },
+      {
+         "address": "0x6FF1BFa14A57594a5874B37ff6AC5efbD9F9599A",
+         "chainId": 1,
+         "name": "TotemFi",
+         "symbol": "TOTM",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6FF1BFa14A57594a5874B37ff6AC5efbD9F9599A.png"
       }
    ]
 }
