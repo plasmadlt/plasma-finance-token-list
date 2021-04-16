@@ -58,11 +58,11 @@
          "description": "Synthetic cryptocurrency by Synthetix protocol"
       }
    },
-   "timestamp": "2021-04-10T11:50:04+00:00",
+   "timestamp": "2021-01-21T11:50:04+00:00",
    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
    "version": {
-      "major": 2,
-      "minor": 0,
+      "major": 1,
+      "minor": 2,
       "patch": 0
    },
    "tokens": [
@@ -6304,6 +6304,48 @@
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1.png"
+      },
+      {
+         "address": "0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112",
+         "chainId": 1,
+         "name": "Genesis Shards",
+         "symbol": "GS",
+         "tags": [
+            "nft"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112.png"
+      },
+      {
+         "address": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
+         "chainId": 1,
+         "name": "EPNS",
+         "symbol": "PUSH",
+         "tags": [],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf418588522d5dd018b425E472991E52EBBeEEEEE.png"
+      },
+      {
+         "address": "0x888888848B652B3E3a0f34c96E00EEC0F3a23F72",
+         "chainId": 1,
+         "name": "Alien Worlds",
+         "symbol": "TLM",
+         "tags": [
+            "nft"
+         ],
+         "decimals": 4,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x888888848B652B3E3a0f34c96E00EEC0F3a23F72.png"
+      },
+      {
+         "address": "0x3758e00b100876C854636eF8Db61988931BB8025",
+         "chainId": 1,
+         "name": "Uniqly",
+         "symbol": "UNIQ",
+         "tags": [
+            "nft"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3758e00b100876C854636eF8Db61988931BB8025.png"
       }
    ]
 }
