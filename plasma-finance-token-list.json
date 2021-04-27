@@ -6346,6 +6346,17 @@
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3758e00b100876C854636eF8Db61988931BB8025.png"
+      },
+      {
+         "address": "0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
+         "chainId": 1,
+         "name": "BlockBank",
+         "symbol": "BBANK",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267.png"
       }
    ]
 }
