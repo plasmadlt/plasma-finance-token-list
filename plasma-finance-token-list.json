@@ -62,7 +62,7 @@
    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
    "version": {
       "major": 2,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
    },
    "tokens": [
