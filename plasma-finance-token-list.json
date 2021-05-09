@@ -6357,6 +6357,108 @@
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267.png"
+      },
+      {
+         "address": "0xd2adC1C84443Ad06f0017aDCa346Bd9b6fc52CaB",
+         "chainId": 1,
+         "name": "dFund",
+         "symbol": "DFND",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xd2adC1C84443Ad06f0017aDCa346Bd9b6fc52CaB.png"
+      },
+      {
+         "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+         "chainId": 1,
+         "name": "Alchemix",
+         "symbol": "ALCX",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF.png"
+      },
+      {
+         "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+         "chainId": 1,
+         "name": "Vesper Finance",
+         "symbol": "VSP",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421.png"
+      },
+      {
+         "address": "0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198",
+         "chainId": 1,
+         "name": "Bankless DAO",
+         "symbol": "BANK",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198.png"
+      },
+      {
+         "address": "0x9196E18Bc349B1F64Bc08784eaE259525329a1ad",
+         "chainId": 1,
+         "name": "Pussy Financial",
+         "symbol": "PUSSY",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9196E18Bc349B1F64Bc08784eaE259525329a1ad.png"
+      },
+      {
+         "address": "0x0275E1001e293C46CFe158B3702AADe0B99f88a5",
+         "chainId": 1,
+         "name": "Oiler",
+         "symbol": "OIL",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0275E1001e293C46CFe158B3702AADe0B99f88a5.png"
+      },
+      {
+         "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+         "chainId": 1,
+         "name": "Shiba Inu",
+         "symbol": "SHIB",
+         "tags": [],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.png"
+      },
+      {
+         "address": "0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6",
+         "chainId": 1,
+         "name": "Akita Inu",
+         "symbol": "AKITA",
+         "tags": [],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3301Ee63Fb29F863f2333Bd4466acb46CD8323E6.png"
+      },
+      {
+         "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+         "chainId": 1,
+         "name": "Telcoin",
+         "symbol": "TEL",
+         "tags": [],
+         "decimals": 2,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x467Bccd9d29f223BcE8043b84E8C8B282827790F.png"
+      },
+      {
+         "address": "0x903bEF1736CDdf2A537176cf3C64579C3867A881",
+         "chainId": 1,
+         "name": "ICHI",
+         "symbol": "ICHI",
+         "tags": [],
+         "decimals": 9,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x903bEF1736CDdf2A537176cf3C64579C3867A881.png"
       }
    ]
 }
