@@ -61,7 +61,7 @@
    "timestamp": "2021-01-21T11:50:04+00:00",
    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
    "version": {
-      "major": 3,
+      "major": 4,
       "minor": 0,
       "patch": 0
    },
@@ -6448,6 +6448,28 @@
          "tags": [],
          "decimals": 9,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x903bEF1736CDdf2A537176cf3C64579C3867A881.png"
+      },
+      {
+         "address": "0xa02120696c7B8fE16C09C749E4598819b2B0E915",
+         "chainId": 1,
+         "name": "Wirex",
+         "symbol": "WXT",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa02120696c7B8fE16C09C749E4598819b2B0E915.png"
+      },
+      {
+         "address": "0x35a532d376FFd9a705d0Bb319532837337A398E7",
+         "chainId": 1,
+         "name": "DogeCoin",
+         "symbol": "WDOGE",
+         "tags": [
+            "wrap"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x35a532d376FFd9a705d0Bb319532837337A398E7.png"
       }
    ]
 }
