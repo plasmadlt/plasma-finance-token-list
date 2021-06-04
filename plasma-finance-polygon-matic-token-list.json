@@ -1,13 +1,18 @@
 {
-   "name": "Plasma Finance",
+   "name": "Plasma Finance Polygon",
    "keywords": [
       "PlasmaFinance",
-      "polygon",
+      "Polygon",
       "coinmarketcap",
       "defi",
       "nft",
-      "matic",
-      "list"
+      "Matic",
+      "list",
+      "eth2",
+      "plasmaswap",
+      "ppay",
+      "xppay",
+      "bridge"
    ],
    "tags": {
       "defi": {
