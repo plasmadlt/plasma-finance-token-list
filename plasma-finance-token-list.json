@@ -6459,6 +6459,17 @@
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa02120696c7B8fE16C09C749E4598819b2B0E915.png"
+      },
+      {
+         "address": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+         "chainId": 1,
+         "name": "Coinspaid",
+         "symbol": "CPD",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9b31bb425D8263fA1b8B9d090b83CF0C31665355.png"
       }
    ]
 }
