@@ -1656,7 +1656,7 @@
             "aavev2"
          ],
          "decimals": 18,
-         "logoURI": ""
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png"
       },
       {
          "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
@@ -1672,13 +1672,13 @@
       {
          "address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
          "chainId": 137,
-         "name": "JPY",
+         "name": "JPY Coin",
          "symbol": "JPYC",
          "tags": [
             "stable"
          ],
          "decimals": 18,
-         "logoURI": ""
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c.png"
       },
       {
          "address": "0x99dA82C5464C49962Cdda44fe30d352Bc5Da0580",
@@ -1687,7 +1687,7 @@
          "symbol": "QuickChart",
          "tags": [],
          "decimals": 18,
-         "logoURI": ""
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x99dA82C5464C49962Cdda44fe30d352Bc5Da0580.png"
       },
       {
          "address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
@@ -1696,7 +1696,7 @@
          "symbol": "RAZOR",
          "tags": [],
          "decimals": 18,
-         "logoURI": ""
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828.png"
       }
    ]
 }
