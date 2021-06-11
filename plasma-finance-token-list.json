@@ -61,7 +61,7 @@
    "timestamp": "2021-01-21T11:50:04+00:00",
    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
    "version": {
-      "major": 4,
+      "major": 5,
       "minor": 0,
       "patch": 0
    },
@@ -6470,6 +6470,303 @@
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9b31bb425D8263fA1b8B9d090b83CF0C31665355.png"
+      },
+      {
+         "address": "0xdCD90C7f6324cfa40d7169ef80b12031770B4325",
+         "chainId": 1,
+         "name": "Curve stETH Pool yVault",
+         "symbol": "crvstETH",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdCD90C7f6324cfa40d7169ef80b12031770B4325.png"
+      },
+      {
+         "address": "0xdCD90C7f6324cfa40d7169ef80b12031770B4325",
+         "chainId": 1,
+         "name": "Curve stETH Pool yVault",
+         "symbol": "crvstETH",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdCD90C7f6324cfa40d7169ef80b12031770B4325.png"
+      },
+      {
+         "address": "0x27b7b1ad7288079A66d12350c828D3C00A6F07d7",
+         "chainId": 1,
+         "name": "Curve Iron Bank Pool yVault",
+         "symbol": "crvIB",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x27b7b1ad7288079A66d12350c828D3C00A6F07d7.png"
+      },
+      {
+         "address": "0xD6Ea40597Be05c201845c0bFd2e96A60bACde267",
+         "chainId": 1,
+         "name": "Curve Compound Pool yVault",
+         "symbol": "crvCOMP",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xD6Ea40597Be05c201845c0bFd2e96A60bACde267.png"
+      },
+      {
+         "address": "0x7047F90229a057C13BF847C0744D646CFb6c9E1A",
+         "chainId": 1,
+         "name": "Curve renBTC Pool yVault",
+         "symbol": "crvRENBTC",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7047F90229a057C13BF847C0744D646CFb6c9E1A.png"
+      },
+      {
+         "address": "0x39CAF13a104FF567f71fd2A4c68C026FDB6E740B",
+         "chainId": 1,
+         "name": "Curve Aave Pool yVault",
+         "symbol": "crvAAVE",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x39CAF13a104FF567f71fd2A4c68C026FDB6E740B.png"
+      },
+      {
+         "address": "0xf8768814b88281DE4F532a3beEfA5b85B69b9324",
+         "chainId": 1,
+         "name": "Curve TUSD Pool yVault",
+         "symbol": "crvTUSD",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf8768814b88281DE4F532a3beEfA5b85B69b9324.png"
+      },
+      {
+         "address": "0x25212Df29073FfFA7A67399AcEfC2dd75a831A1A",
+         "chainId": 1,
+         "name": "Curve EURS Pool yVault",
+         "symbol": "crvEURS",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x25212Df29073FfFA7A67399AcEfC2dd75a831A1A.png"
+      },
+      {
+         "address": "0xf2db9a7c0ACd427A680D640F02d90f6186E71725",
+         "chainId": 1,
+         "name": "Curve LINK Pool yVault",
+         "symbol": "crvLINK",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf2db9a7c0ACd427A680D640F02d90f6186E71725.png"
+      },
+      {
+         "address": "0x30FCf7c6cDfC46eC237783D94Fc78553E79d4E9C",
+         "chainId": 1,
+         "name": "Curve DUSD Pool yVault",
+         "symbol": "crvDUSD",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x30FCf7c6cDfC46eC237783D94Fc78553E79d4E9C.png"
+      },
+      {
+         "address": "0xB4AdA607B9d6b2c9Ee07A275e9616B84AC560139",
+         "chainId": 1,
+         "name": "Curve FRAX Pool yVault",
+         "symbol": "crvFRAX",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xB4AdA607B9d6b2c9Ee07A275e9616B84AC560139.png"
+      },
+      {
+         "address": "0x2a38B9B0201Ca39B17B460eD2f11e4929559071E",
+         "chainId": 1,
+         "name": "Curve GUSD Pool yVault",
+         "symbol": "crvGUSD",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2a38B9B0201Ca39B17B460eD2f11e4929559071E.png"
+      },
+      {
+         "address": "0x054AF22E1519b020516D72D749221c24756385C9",
+         "chainId": 1,
+         "name": "Curve HUSD Pool yVault",
+         "symbol": "crvHUSD",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054AF22E1519b020516D72D749221c24756385C9.png"
+      },
+      {
+         "address": "0x5fA5B62c8AF877CB37031e0a3B2f34A78e3C56A6",
+         "chainId": 1,
+         "name": "Curve LUSD Pool yVault",
+         "symbol": "crvLUSD",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5fA5B62c8AF877CB37031e0a3B2f34A78e3C56A6.png"
+      },
+      {
+         "address": "0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757",
+         "chainId": 1,
+         "name": "Curve MUSD Pool yVault",
+         "symbol": "crvMUSD",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757.png"
+      },
+      {
+         "address": "0xb4D1Be44BfF40ad6e506edf43156577a3f8672eC",
+         "chainId": 1,
+         "name": "Curve SAAVE Pool yVault",
+         "symbol": "crvSAAVE",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb4D1Be44BfF40ad6e506edf43156577a3f8672eC.png"
+      },
+      {
+         "address": "0x5a770DbD3Ee6bAF2802D29a901Ef11501C44797A",
+         "chainId": 1,
+         "name": "Curve SUSD Pool yVault",
+         "symbol": "crvSUSD",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5a770DbD3Ee6bAF2802D29a901Ef11501C44797A.png"
+      },
+      {
+         "address": "0x3B96d491f067912D18563d56858Ba7d6EC67a6fa",
+         "chainId": 1,
+         "name": "Curve USDN Pool yVault",
+         "symbol": "crvUSDN",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3B96d491f067912D18563d56858Ba7d6EC67a6fa.png"
+      },
+      {
+         "address": "0xC4dAf3b5e2A9e93861c3FBDd25f1e943B8D87417",
+         "chainId": 1,
+         "name": "Curve USDP Pool yVault",
+         "symbol": "crvUSDP",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xC4dAf3b5e2A9e93861c3FBDd25f1e943B8D87417.png"
+      },
+      {
+         "address": "0x986b4AFF588a109c09B50A03f42E4110E29D353F",
+         "chainId": 1,
+         "name": "Curve sETH Pool yVault",
+         "symbol": "crvSETH",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x986b4AFF588a109c09B50A03f42E4110E29D353F.png"
+      },
+      {
+         "address": "0x132d8D2C76Db3812403431fAcB00F3453Fc42125",
+         "chainId": 1,
+         "name": "Curve aETH Pool yVault",
+         "symbol": "crvAETH",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x132d8D2C76Db3812403431fAcB00F3453Fc42125.png"
+      },
+      {
+         "address": "0x625b7DF2fa8aBe21B0A976736CDa4775523aeD1E",
+         "chainId": 1,
+         "name": "Curve HBTC Pool yVault",
+         "symbol": "crvHBTC",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x625b7DF2fa8aBe21B0A976736CDa4775523aeD1E.png"
+      },
+      {
+         "address": "0x8414Db07a7F743dEbaFb402070AB01a4E0d2E45e",
+         "chainId": 1,
+         "name": "Curve SBTC Pool yVault",
+         "symbol": "crvSBTC",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8414Db07a7F743dEbaFb402070AB01a4E0d2E45e.png"
+      },
+      {
+         "address": "0x3c5DF3077BcF800640B5DAE8c91106575a4826E6",
+         "chainId": 1,
+         "name": "Curve pBTC Pool yVault",
+         "symbol": "crvPBTC",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3c5DF3077BcF800640B5DAE8c91106575a4826E6.png"
+      },
+      {
+         "address": "0x8fA3A9ecd9EFb07A8CE90A6eb014CF3c0E3B32Ef",
+         "chainId": 1,
+         "name": "Curve BBTC Pool yVault",
+         "symbol": "crvBBTC",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8fA3A9ecd9EFb07A8CE90A6eb014CF3c0E3B32Ef.png"
+      },
+      {
+         "address": "0x23D3D0f1c697247d5e0a9efB37d8b0ED0C464f7f",
+         "chainId": 1,
+         "name": "Curve tBTC Pool yVault",
+         "symbol": "crvTBTC",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x23D3D0f1c697247d5e0a9efB37d8b0ED0C464f7f.png"
+      },
+      {
+         "address": "0xe9Dc63083c464d6EDcCFf23444fF3CFc6886f6FB",
+         "chainId": 1,
+         "name": "Curve oBTC Pool yVault",
+         "symbol": "crvOBTC",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe9Dc63083c464d6EDcCFf23444fF3CFc6886f6FB.png"
       }
    ]
 }
