@@ -61,7 +61,7 @@
    "timestamp": "2021-01-21T11:50:04+00:00",
    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
    "version": {
-      "major": 5,
+      "major": 6,
       "minor": 0,
       "patch": 0
    },
@@ -6483,17 +6483,6 @@
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdCD90C7f6324cfa40d7169ef80b12031770B4325.png"
       },
       {
-         "address": "0xdCD90C7f6324cfa40d7169ef80b12031770B4325",
-         "chainId": 1,
-         "name": "Curve stETH Pool yVault",
-         "symbol": "crvstETH",
-         "tags": [
-            "defi"
-         ],
-         "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdCD90C7f6324cfa40d7169ef80b12031770B4325.png"
-      },
-      {
          "address": "0x27b7b1ad7288079A66d12350c828D3C00A6F07d7",
          "chainId": 1,
          "name": "Curve Iron Bank Pool yVault",
@@ -6767,6 +6756,71 @@
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe9Dc63083c464d6EDcCFf23444fF3CFc6886f6FB.png"
+      },
+      {
+         "address": "0xaCbd826394189Cf2623C6DF98a18b41fC8fFC16D",
+         "chainId": 1,
+         "name": "NFTify",
+         "symbol": "N1",
+         "tags": [
+            "nft"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaCbd826394189Cf2623C6DF98a18b41fC8fFC16D.png"
+      },
+      {
+         "address": "0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320",
+         "chainId": 1,
+         "name": "Lossless",
+         "symbol": "LSS",
+         "tags": [
+            "defi"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320.png"
+      },
+      {
+         "address": "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217",
+         "chainId": 1,
+         "name": "Charged Particles",
+         "symbol": "IONX",
+         "tags": [
+            "nft"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x02D3A27Ac3f55d5D91Fb0f52759842696a864217.png"
+      },
+      {
+         "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+         "chainId": 1,
+         "name": "Gitcoin",
+         "symbol": "GTC",
+         "tags": [],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F.png"
+      },
+      {
+         "address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
+         "chainId": 1,
+         "name": "SAK3",
+         "symbol": "SAK3",
+         "tags": [
+            "nft"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe9F84dE264E91529aF07Fa2C746e934397810334.png"
+      },
+      {
+         "address": "0xaBAfA52D3d5A2c18A4C1Ae24480D22B831fC0413",
+         "chainId": 1,
+         "name": "Future Of Finance Fund",
+         "symbol": "FFF",
+         "tags": [
+            "defi",
+            "index"
+         ],
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaBAfA52D3d5A2c18A4C1Ae24480D22B831fC0413.png"
       }
    ]
 }
