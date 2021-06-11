@@ -61,7 +61,7 @@
    "timestamp": "2021-06-09T11:50:04+00:00",
    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
    "version": {
-      "major": 8,
+      "major": 9,
       "minor": 0,
       "patch": 0
    },
@@ -6480,7 +6480,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xdCD90C7f6324cfa40d7169ef80b12031770B4325.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x06325440D014e39736583c165C2963BA99fAf14E.png"
       },
       {
          "address": "0x5282a4eF67D9C33135340fB3289cc1711c13638C",
@@ -6491,7 +6491,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x27b7b1ad7288079A66d12350c828D3C00A6F07d7.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5282a4eF67D9C33135340fB3289cc1711c13638C.png"
       },
       {
          "address": "0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2",
@@ -6502,7 +6502,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xD6Ea40597Be05c201845c0bFd2e96A60bACde267.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2.png"
       },
       {
          "address": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
@@ -6513,7 +6513,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7047F90229a057C13BF847C0744D646CFb6c9E1A.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x49849C98ae39Fff122806C06791Fa73784FB3675.png"
       },
       {
          "address": "0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900",
@@ -6524,7 +6524,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x39CAF13a104FF567f71fd2A4c68C026FDB6E740B.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900.png"
       },
       {
          "address": "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1",
@@ -6535,7 +6535,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf8768814b88281DE4F532a3beEfA5b85B69b9324.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1.png"
       },
       {
          "address": "0x194eBd173F6cDacE046C53eACcE9B953F28411d1",
@@ -6546,7 +6546,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x25212Df29073FfFA7A67399AcEfC2dd75a831A1A.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x194eBd173F6cDacE046C53eACcE9B953F28411d1.png"
       },
       {
          "address": "0xcee60cFa923170e4f8204AE08B4fA6A3F5656F3a",
@@ -6557,7 +6557,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf2db9a7c0ACd427A680D640F02d90f6186E71725.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xcee60cFa923170e4f8204AE08B4fA6A3F5656F3a.png"
       },
       {
          "address": "0x3a664Ab939FD8482048609f652f9a0B0677337B9",
@@ -6568,7 +6568,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x30FCf7c6cDfC46eC237783D94Fc78553E79d4E9C.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3a664Ab939FD8482048609f652f9a0B0677337B9.png"
       },
       {
          "address": "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B",
@@ -6579,7 +6579,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xB4AdA607B9d6b2c9Ee07A275e9616B84AC560139.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B.png"
       },
       {
          "address": "0xD2967f45c4f384DEEa880F807Be904762a3DeA07",
@@ -6590,7 +6590,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2a38B9B0201Ca39B17B460eD2f11e4929559071E.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xD2967f45c4f384DEEa880F807Be904762a3DeA07.png"
       },
       {
          "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
@@ -6601,7 +6601,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054AF22E1519b020516D72D749221c24756385C9.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858.png"
       },
       {
          "address": "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA",
@@ -6612,7 +6612,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5fA5B62c8AF877CB37031e0a3B2f34A78e3C56A6.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA.png"
       },
       {
          "address": "0x1AEf73d49Dedc4b1778d0706583995958Dc862e6",
@@ -6623,7 +6623,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1AEf73d49Dedc4b1778d0706583995958Dc862e6.png"
       },
       {
          "address": "0x02d341CcB60fAaf662bC0554d13778015d1b285C",
@@ -6634,10 +6634,10 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb4D1Be44BfF40ad6e506edf43156577a3f8672eC.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x02d341CcB60fAaf662bC0554d13778015d1b285C.png"
       },
       {
-         "address": "0x4f3e8f405cf5afc05d68142f3783bdfe13811522",
+         "address": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522",
          "chainId": 1,
          "name": "Curve USDN Pool yVault",
          "symbol": "crvUSDN",
@@ -6645,7 +6645,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3B96d491f067912D18563d56858Ba7d6EC67a6fa.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4f3E8F405CF5aFC05D68142F3783bDfE13811522.png"
       },
       {
          "address": "0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6",
@@ -6656,7 +6656,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xC4dAf3b5e2A9e93861c3FBDd25f1e943B8D87417.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6.png"
       },
       {
          "address": "0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c",
@@ -6667,7 +6667,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x986b4AFF588a109c09B50A03f42E4110E29D353F.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c.png"
       },
       {
          "address": "0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf",
@@ -6678,7 +6678,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x132d8D2C76Db3812403431fAcB00F3453Fc42125.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf.png"
       },
       {
          "address": "0xb19059ebb43466C323583928285a49f558E572Fd",
@@ -6689,7 +6689,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x625b7DF2fa8aBe21B0A976736CDa4775523aeD1E.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb19059ebb43466C323583928285a49f558E572Fd.png"
       },
       {
          "address": "0xDE5331AC4B3630f94853Ff322B66407e0D6331E8",
@@ -6700,7 +6700,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3c5DF3077BcF800640B5DAE8c91106575a4826E6.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xDE5331AC4B3630f94853Ff322B66407e0D6331E8.png"
       },
       {
          "address": "0x410e3E86ef427e30B9235497143881f717d93c2A",
@@ -6711,7 +6711,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x8fA3A9ecd9EFb07A8CE90A6eb014CF3c0E3B32Ef.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x410e3E86ef427e30B9235497143881f717d93c2A.png"
       },
       {
          "address": "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd",
@@ -6722,7 +6722,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x23D3D0f1c697247d5e0a9efB37d8b0ED0C464f7f.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd.png"
       },
       {
          "address": "0x2fE94ea3d5d4a175184081439753DE15AeF9d614",
@@ -6733,7 +6733,7 @@
             "defi"
          ],
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xe9Dc63083c464d6EDcCFf23444fF3CFc6886f6FB.png"
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2fE94ea3d5d4a175184081439753DE15AeF9d614.png"
       },
       {
          "address": "0xaCbd826394189Cf2623C6DF98a18b41fC8fFC16D",
