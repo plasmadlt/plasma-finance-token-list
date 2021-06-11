@@ -58,10 +58,10 @@
          "description": "Synthetic cryptocurrency by Synthetix protocol"
       }
    },
-   "timestamp": "2021-01-21T11:50:04+00:00",
+   "timestamp": "2021-06-09T11:50:04+00:00",
    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
    "version": {
-      "major": 6,
+      "major": 7,
       "minor": 0,
       "patch": 0
    },
