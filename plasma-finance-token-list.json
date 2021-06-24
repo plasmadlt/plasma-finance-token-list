@@ -6799,6 +6799,15 @@
          ],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xaBAfA52D3d5A2c18A4C1Ae24480D22B831fC0413.png"
+      },
+      {
+         "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+         "chainId": 1,
+         "name": "0xBitcoin Token",
+         "symbol": "0xBTC",
+         "tags": [],
+         "decimals": 8,
+         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xb6ed7644c69416d67b522e20bc294a9a9b405b31.png"
       }
    ]
 }
