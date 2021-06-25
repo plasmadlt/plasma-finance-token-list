@@ -1,5 +1,8 @@
-# Plasma.Finance Token List
+# Plasma.Finance Token List for Ethereum Mainnet
 https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-token-list.json
+
+# Plasma.Finance Token List for Polygon (Matic) Mainnet
+https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-polygon-matic-token-list.json
 
 See https://tokenlists.org/
 
