@@ -1,5 +1,6 @@
 # Plasma.Finance Token List for Ethereum Mainnet
-https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-token-list.json
+https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-token-list.json <br>
+*We are using this token-list to show tokens on your Portfolio Page and whitelist tokens in major DEXs (PlasmaSwap, Uniswap, Sushiswap)*
 
 # Plasma.Finance Token List for Polygon (Matic) Mainnet
 https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-polygon-matic-token-list.json
@@ -30,7 +31,7 @@ File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-
 
 Address contract must be ***checksummed***. Check or convert your address in checksummed address here: https://web3-tools.netlify.app/
 
-```
+```json
 {
  "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
  "chainId": 1,
@@ -46,7 +47,7 @@ Address contract must be ***checksummed***. Check or convert your address in che
 
 You can add any tag from the next list to your token. Use no more than 3 tags.
 
-```
+```json
 "tags": {
       "defi": {
          "name": "DeFi Market",
@@ -106,3 +107,44 @@ git add -A
 git commit -m “Add <token_name>”
 git push origin <branch_name>
 ```
+
+# 📞 Contacts
+Email: [apy@plasma.finance](mailto:apy@plasma.finance) <br>
+Telegram: [Announcement Group](https://t.me/plasmapay_global), [Chat](https://t.me/plasmapay_community)
+
+# 🔉 Social Media
+[Facebook](https://www.facebook.com/plasmapay) <br>
+[Plasma Twitter](https://twitter.com/plasma_pay) <br>
+[Spaceport Twitter](https://twitter.com/CyberSpacePort) <br>
+
+# 🔗 Useful Links
+### [PlasmaPay](https://plasmapay.com/):
+- [Crypto Wallet](https://app.plasmapay.com/)
+- [Fiat on-ramp](https://buy.plasmapay.com/)
+
+### [Plasma.Finance](https://plasma.finance/):
+#### Platform
+- [Market](https://apy.plasma.finance/#/market)
+- [Swap](https://apy.plasma.finance/#/swap)
+- [DEX Liquidity Management](https://apy.plasma.finance/#/liquidity-pools)
+- [Savings](https://apy.plasma.finance/#/savings)
+#### IDO
+- [SpacePort](https://apy.plasma.finance/#/spaceport)
+- [Innovation Hub](https://apy.plasma.finance/#/innovation-hub)
+- [Launchpad Alliance](https://apy.plasma.finance/#/launchpads)
+- [SpacePort Landing](https://plasma.finance/spaceport)
+#### How To
+- [Documentation and DeFi University](https://docs.plasma.finance/)
+
+### Media
+[PPAY on Coinmarketcap](https://coinmarketcap.com/currencies/plasma-finance/) <br>
+[PlasmaSwap (AMM) on CoinMarketCap](https://coinmarketcap.com/exchanges/plasmaswap/) <br>
+[Plasma Earn Campaigne on CMC](https://coinmarketcap.com/earn/project/plasmafinance) <br>
+[PPAY on Coingecko](https://www.coingecko.com/en/coins/plasma-finance) <br>
+
+### Tokens:
+#### PPAY
+ - [Ethereum (ERC20)](https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2)
+ - [Polygon](https://polygonscan.com/token/0x08158a6b5d4018340387d1a302f882e98a8bc5b4)
+#### xPPAY
+ - [Ethereum (ERC20)](https://etherscan.io/token/0x9fd1d329bb687fef164f529f6f6dcd6f69e7b978)
