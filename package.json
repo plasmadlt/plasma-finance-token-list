@@ -1,0 +1,24 @@
+{
+  "name": "plasma-finance-token-list",
+  "version": "1.0.0",
+  "description": "Plasma.Finance Token List for Ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/test.js",
+    "fix": "node scripts/fix.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plasmadlt/plasma-finance-token-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plasmadlt/plasma-finance-token-list/issues"
+  },
+  "homepage": "https://github.com/plasmadlt/plasma-finance-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.4.0",
+    "node-core-lib": "^0.11.11"
+  }
+}
