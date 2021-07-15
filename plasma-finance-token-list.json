@@ -291,24 +291,6 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0f7f961648ae6db43c75663ac7e5414eb79b5704.png"
     },
     {
-      "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
-      "chainId": 1,
-      "name": "BitClave",
-      "symbol": "CAT",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1234567461d3f8db7496581774bd869c83d51c93.png"
-    },
-    {
-      "address": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
-      "chainId": 1,
-      "name": "GRID",
-      "symbol": "GRID",
-      "tags": [],
-      "decimals": 12,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd.png"
-    },
-    {
       "address": "0x12f649A9E821F90BB143089a6e56846945892ffB",
       "chainId": 1,
       "name": "uDOO",
@@ -316,24 +298,6 @@
       "tags": [],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x12f649a9e821f90bb143089a6e56846945892ffb.png"
-    },
-    {
-      "address": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
-      "chainId": 1,
-      "name": "CurToken",
-      "symbol": "CUR",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x13339fd07934cd674269726edf3b5ccee9dd93de.png"
-    },
-    {
-      "address": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
-      "chainId": 1,
-      "name": "Tendies",
-      "symbol": "TEND",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1453dbb8a29551ade11d89825ca812e05317eaeb.png"
     },
     {
       "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
@@ -397,15 +361,6 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x196f4727526ea7fb1e17b2071b3d8eaa38486988.png"
     },
     {
-      "address": "0x1dEa979ae76f26071870F824088dA78979eb91C8",
-      "chainId": 1,
-      "name": "Spindle",
-      "symbol": "SPD",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1dea979ae76f26071870f824088da78979eb91c8.png"
-    },
-    {
       "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
       "chainId": 1,
       "name": "Bancor",
@@ -460,15 +415,6 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6.png"
     },
     {
-      "address": "0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
-      "chainId": 1,
-      "name": "Yield Farming Token",
-      "symbol": "YFT",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x26b3038a7fc10b36c426846a9086ef87328da702.png"
-    },
-    {
       "address": "0x26CE25148832C04f3d7F26F32478a9fe55197166",
       "chainId": 1,
       "name": "DEXTools",
@@ -487,15 +433,6 @@
       ],
       "decimals": 4,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x27054b13b1b798b345b591a4d22e6562d47ea75a.png"
-    },
-    {
-      "address": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
-      "chainId": 1,
-      "name": "YFLink",
-      "symbol": "YFL",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x28cb7e841ee97947a86b06fa4090c8451f64c0be.png"
     },
     {
       "address": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
