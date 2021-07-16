@@ -435,15 +435,6 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x27054b13b1b798b345b591a4d22e6562d47ea75a.png"
     },
     {
-      "address": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
-      "chainId": 1,
-      "name": "Blitz Predict",
-      "symbol": "XBP",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x28dee01d53fed0edf5f6e310bf8ef9311513ae40.png"
-    },
-    {
       "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
       "chainId": 1,
       "name": "HEX",
@@ -604,15 +595,6 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724.png"
     },
     {
-      "address": "0x301C755bA0fcA00B1923768Fffb3Df7f4E63aF31",
-      "chainId": 1,
-      "name": "Global Digital Content",
-      "symbol": "GDC",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x301c755ba0fca00b1923768fffb3df7f4e63af31.png"
-    },
-    {
       "address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
       "chainId": 1,
       "name": "Decentr",
@@ -622,15 +604,6 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3.png"
     },
     {
-      "address": "0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
-      "chainId": 1,
-      "name": "QDAO",
-      "symbol": "QDAO",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3166c570935a7d8554c8f4ea792ff965d2efe1f2.png"
-    },
-    {
       "address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
       "chainId": 1,
       "name": "BLOCKv",
@@ -638,15 +611,6 @@
       "tags": [],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x340d2bde5eb28c1eed91b2f790723e3b160613b7.png"
-    },
-    {
-      "address": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289",
-      "chainId": 1,
-      "name": "AidCoin",
-      "symbol": "AID",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x37e8789bb9996cac9156cd5f5fd32599e6b91289.png"
     },
     {
       "address": "0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
@@ -665,15 +629,6 @@
       "tags": [],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3c6ff50c9ec362efa359317009428d52115fe643.png"
-    },
-    {
-      "address": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
-      "chainId": 1,
-      "name": "Rivetz",
-      "symbol": "RVT",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244.png"
     },
     {
       "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
@@ -796,15 +751,6 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x41e5560054824ea6b0732e656e3ad64e20e94e45.png"
     },
     {
-      "address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
-      "chainId": 1,
-      "name": "SPANK",
-      "symbol": "SPANK",
-      "tags": [],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x42d6622dece394b54999fbd73d108123806f6a18.png"
-    },
-    {
       "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
       "chainId": 1,
       "name": "Cap",
@@ -888,17 +834,6 @@
       "tags": [],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4946fcea7c692606e8908002e55a582af44ac121.png"
-    },
-    {
-      "address": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
-      "chainId": 1,
-      "name": "USDQ",
-      "symbol": "USDQ",
-      "tags": [
-        "stable"
-      ],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4954db6391f4feb5468b6b943d4935353596aec9.png"
     },
     {
       "address": "0x4a220E6096B25EADb88358cb44068A3248254675",
