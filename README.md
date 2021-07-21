@@ -1,4 +1,7 @@
 # Plasma.Finance Token List for Ethereum and Polygon (Matic) Mainnet
+
+<p align="center"><img src="https://uploads-ssl.webflow.com/5fb23ed0d183e443d48de300/60f7ddddcdb970cf579066c8_Ethereum%20and%20Polygon%20Full%20Token%20List%202.png"></p>
+
 https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-token-list.json <br>
 *We are using this token-list to show tokens on the major DEXs (PlasmaSwap, Uniswap, Sushiswap) on Polygon and Ethereum Chain*
 
