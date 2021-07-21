@@ -1,9 +1,6 @@
-# Plasma.Finance Token List for Ethereum Mainnet
+# Plasma.Finance Token List for Ethereum and Polygon (Matic) Mainnet
 https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-token-list.json <br>
-*We are using this token-list to show tokens on your Portfolio Page and whitelist tokens in major DEXs (PlasmaSwap, Uniswap, Sushiswap)*
-
-# Plasma.Finance Token List for Polygon (Matic) Mainnet
-https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-polygon-matic-token-list.json
+*We are using this token-list to show tokens on the major DEXs (PlasmaSwap, Uniswap, Sushiswap) on Polygon and Ethereum Chain*
 
 See https://tokenlists.org/
 
@@ -42,61 +39,71 @@ Address contract must be ***checksummed***. Check or convert your address in che
  "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
 },
 ```
+*Please use "chainId": 1 for Ethereum Mainnnet and "chainId": 137 for Polygon Mainnet*
 
 ## 3.2 Tags
 
 You can add any tag from the next list to your token. Use no more than 3 tags.
 
 ```json
-"tags": {
+"tags": 
+    {
       "defi": {
-         "name": "DeFi Market",
-         "description": "Decentralized Finance protocols"
-      },
-      "aavev2": {
-         "name": "Aave V2",
-         "description": "Aave interest bearing tokens"
-      },
-      "comp": {
-         "name": "Compound",
-         "description": "Compound protocol balance token"
-      },
-      "indexes": {
-         "name": "DeFi Indexes",
-         "description": "Tokenized baskets of high quality DeFi projects"
-      },
-      "stable": {
-         "name": "Stablecoin",
-         "description": "Stablecoins may be pegged to a currency like the US dollar or to a commoditys price such as gold"
-      },
-      "alliance": {
-         "name": "Plasma Alliance",
-         "description": "Plasma Alliance of ambitious projects and game changing DeFi protocols"
-      },
-      "dex": {
-         "name": "DEX Tokens",
-         "description": "Tokens from AMM protocols"
-      },
-      "wrap": {
-         "name": "Wrapped",
-         "description": "Wrapped tokens pegged to the value of cryptocurrency from another chain"
-      },
-      "eth2": {
-         "name": "Eth 2 Staking",
-         "description": "Eth 2 Staking Tokens"
-      },
-      "pools": {
-         "name": "Pools",
-         "description": "Earn trading fees by providing liquidity in a single transaction"
-      },
-      "synths": {
-         "name": "Synthetix",
-         "description": "Synthetic cryptocurrency by Synthetix protocol"
-      }
+      "name": "DeFi Market",
+      "description": "Decentralized Finance protocols"
+    },
+    "aavev2": {
+      "name": "Aave V2",
+      "description": "Aave interest bearing tokens"
+    },
+    "comp": {
+      "name": "Compound",
+      "description": "Compound protocol balance token"
+    },
+    "nft": {
+      "name": "NFT",
+      "description": "Non fungible token"
+    },
+    "indexes": {
+      "name": "DeFi Indexes",
+      "description": "Tokenized baskets of high quality DeFi projects"
+    },
+    "stable": {
+      "name": "Stablecoin",
+      "description": "Stablecoins may be pegged to a currency like the US dollar or to a commoditys price such as gold"
+    },
+    "alliance": {
+      "name": "Plasma Alliance",
+      "description": "Plasma Alliance of ambitious projects and game changing DeFi protocols"
+    },
+    "dex": {
+      "name": "DEX Tokens",
+      "description": "Tokens from AMM protocols"
+    },
+    "wrap": {
+      "name": "Wrapped",
+      "description": "Wrapped tokens pegged to the value of cryptocurrency from another chain"
+    },
+    "eth2": {
+      "name": "Eth 2 Staking",
+      "description": "Eth 2 Staking Tokens"
+    },
+    "pools": {
+      "name": "Pools",
+      "description": "Earn trading fees by providing liquidity in a single transaction"
+    },
+    "synths": {
+      "name": "Synthetix",
+      "description": "Synthetic cryptocurrency by Synthetix protocol"
+    },
+    "stock": {
+      "name": "Stock",
+      "description": "Synthetic stocks by Mirror protocol"
+    }
    },
 ```
 
-## 3.3 Add your token to Plasma.Finance Decentralized Market Page + Create token page
+## 3.3 Add your token to Plasma.Finance Decentralized Market Page + Create Token Page
 
 To add your token on our market and create page for it, please fork our second token list https://github.com/plasmadlt/plasma-finance-market-tokenlist and add your token there also.
 
