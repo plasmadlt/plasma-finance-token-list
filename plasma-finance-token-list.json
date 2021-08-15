@@ -125,7 +125,7 @@
     {
       "address": "0x6B3d5099c4827a3fC7C858865c1Cea15c3fe58ee",
       "chainId": 137,
-      "name": "PieDAO BTC++",
+      "name": "PO BTC++",
       "symbol": "BTC",
       "tags": [],
       "decimals": 18,
@@ -148,6 +148,28 @@
       "tags": [],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0417912b3a7af768051765040a55bb0925d4ddcf.png"
+    },
+    {
+      "address": "0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46",
+      "chainId": 137,
+      "name": "GOVI",
+      "symbol": "GOVI",
+      "tags": [
+         "defi"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46.png"
+    },
+    {
+      "address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+      "chainId": 1,
+      "name": "GOVI",
+      "symbol": "GOVI",
+      "tags": [
+        "defi"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x43Df9c0a1156c96cEa98737b511ac89D0e2A1F46.png"
     },
     {
       "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
