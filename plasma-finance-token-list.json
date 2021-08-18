@@ -70,10 +70,10 @@
       "description": "Synthetic stocks by Mirror protocol"
     }
   },
-  "timestamp": "2021-06-09T11:50:04+00:00",
+  "timestamp": "2021-08-19T11:50:04+00:00",
   "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 1,
     "patch": 0
   },
@@ -10571,6 +10571,27 @@
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x80244C2441779361F35803b8C711C6c8fC6054a3.png"
+    },
+    {
+      "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+      "chainId": 1,
+      "name": "dYdX",
+      "symbol": "DYDX",
+      "tags": [
+        "defi",
+        "swap"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x92D6C1e31e14520e676a687F0a93788B716BEff5.png"
+    },
+    {
+      "address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+      "chainId": 1,
+      "name": "BITDAO",
+      "symbol": "BIT",
+      "tags": [],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5.png"
     }
   ]
 }
