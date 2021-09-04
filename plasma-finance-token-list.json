@@ -7948,6 +7948,17 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9b31bb425D8263fA1b8B9d090b83CF0C31665355.png"
     },
     {
+      "address": "0x2406dCe4dA5aB125A18295f4fB9FD36a0f7879A2",
+      "chainId": 56,
+      "name": "Coinspaid",
+      "symbol": "CPD",
+      "tags": [
+        "defi"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x9b31bb425D8263fA1b8B9d090b83CF0C31665355.png"
+    },
+    {
       "address": "0x06325440D014e39736583c165C2963BA99fAf14E",
       "chainId": 1,
       "name": "Curve stETH Pool",
