@@ -70,10 +70,10 @@
       "description": "Synthetic stocks by Mirror protocol"
     }
   },
-  "timestamp": "2021-08-19T11:50:04+00:00",
+  "timestamp": "2021-08-30T11:50:04+00:00",
   "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
   "version": {
-    "major": 14,
+    "major": 15,
     "minor": 1,
     "patch": 0
   },
