@@ -9223,6 +9223,61 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b.png"
     },
     {
+      "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+      "chainId": 1,
+      "name": "ETH 2x Leverage",
+      "symbol": "ETH2x-FLI",
+      "tags": [
+        "indexes"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD.png"
+    },
+    {
+      "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
+      "chainId": 1,
+      "name": "BTC 2x Leverage",
+      "symbol": "BTC2x-FLI",
+      "tags": [
+        "indexes"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0B498ff89709d3838a063f1dFA463091F9801c2b.png"
+    },
+    {
+      "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+      "chainId": 1,
+      "name": "Metaverse Index",
+      "symbol": "MVI",
+      "tags": [
+        "indexes"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7.png"
+    },
+    {
+      "address": "0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1",
+      "chainId": 137,
+      "name": "Metaverse Index",
+      "symbol": "MVI",
+      "tags": [
+        "indexes"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7.png"
+    },
+    {
+      "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+      "chainId": 1,
+      "name": "Bankless BED Index",
+      "symbol": "BED",
+      "tags": [
+        "indexes"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6.png"
+    },
+    {
       "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
       "chainId": 137,
       "name": "TrueUSD",
@@ -10603,6 +10658,36 @@
       "tags": [],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5.png"
+    },
+    {
+      "address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+      "chainId": 1,
+      "name": "Wrapped TON Coin",
+      "symbol": "TONCOIN",
+      "tags": [],
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1.png"
+    },
+    {
+      "address": "0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247",
+      "chainId": 1,
+      "name": "ZBG Token",
+      "symbol": "ZT",
+      "tags": [],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247.png"
+    },
+    {
+      "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+      "chainId": 1,
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "tags": [
+        "stable",
+        "defi"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3.png"
     }
   ]
 }
