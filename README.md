@@ -1,20 +1,20 @@
-# Plasma.Finance Token List for Ethereum and Polygon (Matic) Mainnet
+# Plasma.Finance Token List for Ethereum, Binance Smart Chain (BSC) and Polygon (Matic) Mainnet
 
 <p align="center"><img src="https://uploads-ssl.webflow.com/5fb23ed0d183e443d48de300/60f7ddddcdb970cf579066c8_Ethereum%20and%20Polygon%20Full%20Token%20List%202.png"></p>
 
 https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-finance-token-list.json <br>
-*We are using this token-list to show tokens on the major DEXs (PlasmaSwap, Uniswap, Sushiswap) on Polygon and Ethereum Chain*
+*We are using this token-list to show tokens on the major DEXs (PlasmaSwap, Uniswap, Sushiswap, Quickswap, Pancakeswap) on Polygon, BSC and Ethereum Chain*
 
-See https://tokenlists.org/
+Other token lists: https://tokenlists.org/
 
-# Add token in Token List 
-## 1. Press on Fork in the top right corner, wait for process to complete.
+# Add your token in Plasma Token List 
+## 1. Press on "Fork" in the top right corner, wait for process to complete.
 
 ```
 git clone https://github.com/plasmadlt/plasma-finance-token-list
 ```
 
-## 2. Add your token image in Assets
+## 2. Add your token image in folder "Assets"
 
 ```
 https://github.com/plasmadlt/token-list/tree/master/assets 
@@ -23,11 +23,11 @@ https://github.com/plasmadlt/token-list/tree/master/assets
 ### Image Requirements
 File extension: png. Uppercase PNG is considered invalid.
 File name：<contract_address>.png, all lowercase.
-Dimension: 256 x 256 pixels or 512 x 512 pixels.
+Dimension: 256 x 256 pixels (recommended) or 512 x 512 pixels.
 Background: preferably transparent (should fit dark mode as well; deny logos need light border/background).
 File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-drop online service tinypng.
 
-## 3.1 Add your token data in swap.tokenlist.json
+## 3.1 Add your token data in plasma-finance-token-list.json
 
 Address contract must be ***checksummed***. Check or convert your address in checksummed address here: https://web3-tools.netlify.app/
 
@@ -42,11 +42,11 @@ Address contract must be ***checksummed***. Check or convert your address in che
  "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
 },
 ```
-*Please use "chainId": 1 for Ethereum Mainnnet and "chainId": 137 for Polygon Mainnet*
+*Please use "chainId": 1 for Ethereum Mainnnet and "chainId": 137 for Polygon Mainnet and "chainId": 56 for BSC*
 
 ## 3.2 Tags
 
-You can add any tag from the next list to your token. Use no more than 3 tags.
+You can add any tag from the list below to your token data. You can use up to 3 tags.
 
 ```json
 "tags": 
@@ -120,7 +120,7 @@ git push origin <branch_name>
 
 # 📞 Contacts
 Email: [apy@plasma.finance](mailto:apy@plasma.finance) <br>
-Telegram: [Announcement Group](https://t.me/plasmapay_global), [Chat](https://t.me/plasmapay_community)
+Telegram: [Announcement Group](https://t.me/OxPlasma), [Chat](https://t.me/OxPlasmaMedia)
 
 # 🔉 Social Media
 [Facebook](https://www.facebook.com/plasmapay) <br>
@@ -130,12 +130,11 @@ Telegram: [Announcement Group](https://t.me/plasmapay_global), [Chat](https://t.
 # 🔗 Useful Links
 ### [PlasmaPay](https://plasmapay.com/):
 - [Crypto Wallet](https://app.plasmapay.com/)
-- [Fiat on-ramp](https://buy.plasmapay.com/)
 
 ### [Plasma.Finance](https://plasma.finance/):
 #### Platform
 - [Market](https://apy.plasma.finance/#/market)
-- [Swap](https://apy.plasma.finance/#/swap)
+- [HyperDEX](https://apy.plasma.finance/#/hyper-dex)
 - [DEX Liquidity Management](https://apy.plasma.finance/#/liquidity-pools)
 - [Savings](https://apy.plasma.finance/#/savings)
 #### IDO
