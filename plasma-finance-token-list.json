@@ -10688,6 +10688,17 @@
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3.png"
+    },
+    {
+      "address": "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71",
+      "chainId": 1,
+      "name": "Constitution DAO",
+      "symbol": "PEOPLE",
+      "tags": [
+        "defi"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71.png"
     }
   ]
 }
