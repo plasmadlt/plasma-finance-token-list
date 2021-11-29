@@ -6,8 +6,8 @@
     "coinmarketcap",
     "defi",
     "list",
-    "Polygon",
-    "Matic",
+    "polygon",
+    "matic",
     "nft",
     "eth2",
     "plasmaswap",
@@ -71,7 +71,7 @@
     },
     "play": {
       "name": "Play To Earn",
-      "description": "Play-to-earn games rely on blockchain technology, including in the form of non fungible tokens (or NFTs), as the foundation for value creation"
+      "description": "Play to earn games rely on blockchain technology, including in the form of NFTs, as the foundation for value creation"
     }
   },
   "timestamp": "2021-11-28T11:50:04+00:00",
@@ -843,7 +843,7 @@
       "name": "APYSwap",
       "symbol": "APYS",
       "tags": [
-        "swap"
+        "dex"
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf7413489c474ca4399eeE604716c72879Eea3615.png"
@@ -854,7 +854,7 @@
       "name": "APYSwap",
       "symbol": "APYS",
       "tags": [
-        "swap"
+        "dex"
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf7413489c474ca4399eeE604716c72879Eea3615.png"
@@ -7838,7 +7838,7 @@
       "symbol": "FST",
       "tags": [
         "defi",
-        "swap"
+        "dex"
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x0E192d382a36De7011F795Acc4391Cd302003606.png"
@@ -11458,7 +11458,7 @@
       "symbol": "BONE",
       "tags": [
         "defi",
-        "swap"
+        "dex"
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x80244C2441779361F35803b8C711C6c8fC6054a3.png"
@@ -11470,7 +11470,7 @@
       "symbol": "DYDX",
       "tags": [
         "defi",
-        "swap"
+        "dex"
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x92D6C1e31e14520e676a687F0a93788B716BEff5.png"
@@ -11991,7 +11991,7 @@
       "symbol": "UBE",
       "tags": [
         "defi",
-        "swap"
+        "dex"
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC.png"
@@ -12128,7 +12128,7 @@
       "symbol": "BOO",
       "tags": [
         "defi",
-        "swap"
+        "dex"
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE.png"
@@ -12140,7 +12140,7 @@
       "symbol": "SPIRIT",
       "tags": [
         "defi",
-        "swap"
+        "dex"
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5Cc61A78F164885776AA610fb0FE1257df78E59B.png"
