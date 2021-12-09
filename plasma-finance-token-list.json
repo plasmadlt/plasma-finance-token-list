@@ -12321,6 +12321,15 @@
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xC5e2B037D30a390e62180970B3aa4E91868764cD.png"
-    }
+    },
+    {
+      "address": "0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140",
+      "chainId": 1,
+      "name": "Mylivn Coin",
+      "symbol": "MLVC",
+      "tags": [],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5054ed21d6f50b8bcc374c9ef86c9ad832e52140.png"
+     }
   ]
 }
