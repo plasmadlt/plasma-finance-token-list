@@ -12493,6 +12493,18 @@
       ],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xC5e2B037D30a390e62180970B3aa4E91868764cD.png"
+    },
+    {
+      "address": "0xA74591c1F58a0924833c15CBBfAd6BcC6a1912Db",
+      "chainId": 1,
+      "name": "TANSO",
+      "symbol": "TNS",
+      "tags": [
+        "defi",
+        "nft"
+      ],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa74591c1f58a0924833c15cbbfad6bcc6a1912db.png"
     }
   ]
 }
