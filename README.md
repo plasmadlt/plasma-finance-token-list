@@ -1,4 +1,4 @@
-# Plasma.Finance Token List for Ethereum, Binance Smart Chain (BSC) and Polygon (Matic) Mainnet
+# Plasma.Finance Token List for Ethereum, Optimism, Arbitrum, Avalanche, Fantom, Binance Smart Chain (BNB) and Polygon (Matic)
 
 <p align="center"><img src="https://uploads-ssl.webflow.com/5fb23ed0d183e443d48de300/60f7ddddcdb970cf579066c8_Ethereum%20and%20Polygon%20Full%20Token%20List%202.png"></p>
 
