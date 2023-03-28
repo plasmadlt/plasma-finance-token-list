@@ -79,7 +79,7 @@
   "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
   "version": {
     "major": 20,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tokens": [
@@ -12381,6 +12381,22 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x912CE59144191C1204E64559FE8253a0e49E6548.png"
+    },
+    {
+      "name": "Radiant",
+      "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+      "symbol": "RDNT",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3082CC23568eA640225c2467653dB90e9250AaA0.png"
+    },
+    {
+      "name": "Radiant",
+      "address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
+      "symbol": "RDNT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF.png"
     }
   ]
 }
