@@ -6707,15 +6707,6 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3E9BC21C9b189C09dF3eF1B824798658d5011937.png"
     },
     {
-      "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
-      "chainId": 1,
-      "name": "Tether Gold",
-      "symbol": "XAUT",
-      "tags": ["defi", "stable"],
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4922a015c4407F87432B179bb209e125432E4a2A.png"
-    },
-    {
       "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
       "chainId": 1,
       "name": "MANTRA DAO",
