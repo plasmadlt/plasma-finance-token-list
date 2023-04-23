@@ -1,197 +1,233 @@
 {
-  "name": "zkSync Token List",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
+  "keywords": [
+    "zk",
+    "zkSync",
+    "tokens"
+  ],
   "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/zksync.png",
-  "keywords": ["zk", "zkSync", "tokens"],
+  "name": "zkSync Token List",
   "timestamp": "2023-02-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 324,
       "address": "0x000000000000000000000000000000000000800A",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "",
       "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": ""
+      "symbol": "ETH"
     },
     {
-      "chainId": 324,
+      "address": "0x000000000000000000000000000000000000800A",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    {
       "address": "0x0231B3DE40B6B3BDd28dcEf037F1b7a3fCf5A95a",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zyn.png",
       "name": "Zynergy",
-      "symbol": "ZYN",
-      "decimals": 18,
-      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zyn.png"
+      "symbol": "ZYN"
     },
     {
-      "chainId": 324,
       "address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "",
       "name": "Mute.io",
-      "symbol": "MUTE",
-      "decimals": 18,
-      "logoURI": ""
+      "symbol": "MUTE"
     },
     {
-      "chainId": 324,
       "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
-      "name": "USDC Coin",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": ""
+      "chainId": 324,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "name": "USDC",
+      "symbol": "USDC"
     },
     {
-      "chainId": 324,
+      "address": "0x0faF6df7054946141266420b43783387A78d82A9",
+      "chainId": 280,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "name": "USDC",
+      "symbol": "USDC"
+    },
+    {
       "address": "0x42c1c56be243c250AB24D2ecdcC77F9cCAa59601",
-      "name": "Perpetual",
-      "symbol": "PERP",
+      "chainId": 324,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "",
+      "name": "Perpetual",
+      "symbol": "PERP"
     },
     {
-      "chainId": 324,
       "address": "0x45559297BdEDf453e172833AC7086f7D03f6690B",
-      "name": "ZK INU",
-      "symbol": "$ZKINU",
+      "chainId": 324,
       "decimals": 18,
-      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZKINU.png"
+      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZKINU.png",
+      "name": "ZK INU",
+      "symbol": "$ZKINU"
     },
     {
       "address": "0x47260090cE5e83454d5f05A0AbbB2C953835f777",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x47260090cE5e83454d5f05A0AbbB2C953835f777.png",
       "name": "SPACE",
-      "symbol": "SPACE",
-      "chainId": 324,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x47260090cE5e83454d5f05A0AbbB2C953835f777.png"
+      "symbol": "SPACE"
     },
     {
-      "chainId": 324,
       "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
       "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+      "symbol": "WETH"
     },
     {
-      "chainId": 324,
       "address": "0x7C9becB53A7702244Ca260Fd01B4748756CE7BB3",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkrise.png",
       "name": "ZKRISE",
-      "symbol": "ZKRISE",
-      "decimals": 18,
-      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkrise.png"
+      "symbol": "ZKRISE"
     },
     {
-      "chainId": 324,
       "address": "0x8aAAF6E6167825829Ab29F260f246AFE742FB243",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZKCULT.png",
       "name": "zkCULT",
-      "symbol": "zCULT",
-      "decimals": 18,
-      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZKCULT.png"
+      "symbol": "zCULT"
     },
     {
-      "chainId": 324,
       "address": "0xA51Bc2433a33c448DD40F7074bCAB751A1922706",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zinu.png",
       "name": "ZKInu",
-      "symbol": "ZINU",
-      "decimals": 18,
-      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zinu.png"
+      "symbol": "ZINU"
     },
     {
-      "chainId": 324,
       "address": "0xbFB4b5616044Eded03e5b1AD75141f0D9Cb1499b",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkdoge.png",
       "name": "zkDoge",
-      "symbol": "ZKDOGE",
-      "decimals": 18,
-      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkdoge.png"
+      "symbol": "ZKDOGE"
     },
     {
-      "chainId": 324,
       "address": "0xc2B13Bb90E33F1E191b8aA8F44Ce11534D5698E3",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "",
       "name": "Furucombo",
-      "symbol": "COMBO",
-      "decimals": 18,
-      "logoURI": ""
+      "symbol": "COMBO"
     },
     {
-      "chainId": 324,
       "address": "0xc8Ec5B0627C794de0e4ea5d97AD9A556B361d243",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/wisp.png",
       "name": "Whisper",
-      "symbol": "WISP",
-      "decimals": 18,
-      "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/wisp.png"
+      "symbol": "WISP"
     },
     {
-      "chainId": 324,
       "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png",
       "name": "Binance USD",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+      "symbol": "BUSD"
     },
     {
-      "chainId": 324,
       "address": "0x85D84c774CF8e9fF85342684b0E795Df72A24908",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "",
       "name": "Velocore",
-      "symbol": "VC",
-      "decimals": 18,
-      "logoURI": ""
+      "symbol": "VC"
     },
     {
-      "chainId": 324,
       "address": "0x8E86e46278518EFc1C5CEd245cBA2C7e3ef11557",
-      "name": "USD+",
-      "symbol": "USD+",
+      "chainId": 324,
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "",
+      "name": "USD+",
+      "symbol": "USD+"
     },
     {
-      "chainId": 324,
       "address": "0x28a487240e4D45CfF4A2980D334CC933B7483842",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.png",
       "name": "Matic",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.png"
+      "symbol": "MATIC"
     },
     {
-      "chainId": 324,
       "address": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
       "name": "Binance",
-      "symbol": "BNB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+      "symbol": "BNB"
     },
     {
-      "chainId": 324,
       "address": "0x7BcD44c0B91bE28827426f607424E1A8A02d4E69",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "",
       "name": "Ethereum",
-      "symbol": "anyETH",
-      "decimals": 18,
-      "logoURI": ""
+      "symbol": "anyETH"
     },
     {
-      "chainId": 324,
       "address": "0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "",
       "name": "Avalanche",
-      "symbol": "AVAX",
-      "decimals": 18,
-      "logoURI": ""
+      "symbol": "AVAX"
     },
     {
-      "chainId": 324,
       "address": "0x5f3268A22A624AE81281D47A247dAb8F7105f2F9",
-      "name": "anyUSDC",
-      "symbol": "anyUSDC",
+      "chainId": 324,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "",
+      "name": "anyUSDC",
+      "symbol": "anyUSDC"
     },
     {
-      "chainId": 324,
       "address": "0xD0eA21ba66B67bE636De1EC4bd9696EB8C61e9AA",
-      "name": "OT",
-      "symbol": "OT",
+      "chainId": 324,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "",
+      "name": "OT",
+      "symbol": "OT"
+    },
+    {
+      "address": "0x0BfcE1D53451B4a8175DD94e6e029F7d8a701e9c",
+      "chainId": 280,
+      "decimals": 8,
+      "logoURI": "",
+      "name": "WBTC",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
+      "chainId": 280,
+      "decimals": 18,
+      "logoURI": "",
+      "name": "DAI",
+      "symbol": "DAI"
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
 }
