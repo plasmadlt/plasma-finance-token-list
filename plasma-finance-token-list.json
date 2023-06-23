@@ -156,13 +156,14 @@
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x04fa0d235c4abf4bcf4787af4cf447de572ef828.png"
     },
     {
- "address": "0x4E9e4Ab99Cfc14B852f552f5Fb3Aa68617825B6c",
- "chainId": 1,
- "name": "SolarCoin",
- "symbol": "SLR",
- "tags": [],
- "decimals": 18,
- "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4E9e4Ab99Cfc14B852f552f5Fb3Aa68617825B6c.png"
+     "address": "0x4E9e4Ab99Cfc14B852f552f5Fb3Aa68617825B6c",
+     "chainId": 1,
+     "name": "SolarCoin",
+     "symbol": "SLR",
+     "tags": [],
+     "decimals": 18,
+     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x4E9e4Ab99Cfc14B852f552f5Fb3Aa68617825B6c.png"
+    },
     {
       "address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
       "chainId": 137,
