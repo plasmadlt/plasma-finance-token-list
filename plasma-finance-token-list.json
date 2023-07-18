@@ -75,11 +75,11 @@
       "description": "Play to earn games rely on blockchain technology, including in the form of NFTs, as the foundation for value creation"
     }
   },
-  "timestamp": "2023-02-15T11:50:04+00:00",
+  "timestamp": "2023-06-15T11:50:04+00:00",
   "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
   "version": {
-    "major": 20,
-    "minor": 3,
+    "major": 21,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -12404,6 +12404,38 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E.png"
+    },
+    {
+      "name": "GHO",
+      "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+      "symbol": "GHO",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f.png"
+    },
+    {
+      "name": "Arkham",
+      "address": "0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+      "symbol": "ARKM",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050.png"
+    },
+    {
+      "name": "Frax Ether",
+      "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+      "symbol": "FRXETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5E8422345238F34275888049021821E8E08CAa1f.png"
+    },
+    {
+      "name": "Rocket Pool ETH",
+      "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+      "symbol": "RETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xae78736Cd615f374D3085123A210448E74Fc6393.png"
     }
   ]
 }
