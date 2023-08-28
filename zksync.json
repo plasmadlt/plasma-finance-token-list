@@ -56,6 +56,14 @@
       "symbol": "$ZKINU"
     },
     {
+      "address": "0xE027D939f7dE6F521675907Cf086F59E4D75B876",
+      "chainId": 324,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xE027D939f7dE6F521675907Cf086F59E4D75B876.png",
+      "name": "SolarCoin",
+      "symbol": "SLR"
+    },
+    {
       "address": "0x47260090cE5e83454d5f05A0AbbB2C953835f777",
       "chainId": 324,
       "decimals": 18,
