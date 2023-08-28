@@ -1,4 +1,4 @@
-# Plasma.Finance Token List for Ethereum, Optimism, Arbitrum, Avalanche, Fantom, Binance Smart Chain (BNB) and Polygon (Matic)
+# Plasma.Finance Token List for Ethereum, Optimism, Arbitrum, Avalanche, Fantom, Binance Smart Chain (BNB), Base, Celo and Polygon (Matic)
 
 <p align="center"><img src="https://uploads-ssl.webflow.com/5fb23ed0d183e443d48de300/60f7ddddcdb970cf579066c8_Ethereum%20and%20Polygon%20Full%20Token%20List%202.png"></p>
 
@@ -7,14 +7,14 @@ https://github.com/plasmadlt/plasma-finance-token-list/blob/master/plasma-financ
 
 Other token lists: https://tokenlists.org/
 
-# Add your token in Plasma Token List 
-## 1. Press on "Fork" in the top right corner, wait for process to complete.
+# Add your token to the Plasma Token List 
+## 1. Press on "Fork" in the top right corner, and wait for the process to complete.
 
 ```
 git clone https://github.com/plasmadlt/plasma-finance-token-list
 ```
 
-## 2. Add your token image in folder "Assets"
+## 2. Add your token image in the folder "Assets"
 
 ```
 https://github.com/plasmadlt/token-list/tree/master/assets 
@@ -25,7 +25,7 @@ File extension: png. Uppercase PNG is considered invalid.
 File name：<contract_address>.png, all lowercase.
 Dimension: 256 x 256 pixels (recommended) or 512 x 512 pixels.
 Background: preferably transparent (should fit dark mode as well; deny logos need light border/background).
-File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-drop online service tinypng.
+File size: maximum 100kB.  Tip: Optimize image size, e.g. using simple drag-and-drop online service tinypng.
 
 ## 3.1 Add your token data in plasma-finance-token-list.json
 
@@ -106,9 +106,9 @@ You can add any tag from the list below to your token data. You can use up to 3 
    },
 ```
 
-## 3.3 Add your token to Plasma.Finance Decentralized Market Page + Create Token Page
+## 3.3 Add your token to Plasma.Finance Decentralized Market Page + Create Token Page.
 
-To add your token on our market and create page for it, please fork our second token list https://github.com/plasmadlt/plasma-finance-market-tokenlist and add your token there also.
+To add your token to our market and create a page for it, please fork our second token list https://github.com/plasmadlt/plasma-finance-market-tokenlist and add your token there also.
 
 ## 4. Make a new PR (pull request)
 
@@ -128,8 +128,8 @@ Telegram: [Announcement Group](https://t.me/OxPlasma), [Chat](https://t.me/OxPla
 [Spaceport Twitter](https://twitter.com/CyberSpacePort) <br>
 
 # 🔗 Useful Links
-### [PlasmaPay](https://plasmapay.com/):
-- [Crypto Wallet](https://app.plasmapay.com/)
+### [Plasma Wallet](https://plasma-wallet.com/):
+- [Crypto Wallet](https://plasma-wallet.com/)
 
 ### [Plasma.Finance](https://plasma.finance/):
 #### Platform
@@ -137,6 +137,7 @@ Telegram: [Announcement Group](https://t.me/OxPlasma), [Chat](https://t.me/OxPla
 - [HyperDEX](https://apy.plasma.finance/#/hyper-dex)
 - [DEX Liquidity Management](https://apy.plasma.finance/#/liquidity-pools)
 - [Savings](https://apy.plasma.finance/#/savings)
+- [Quadrat Protocol]([https://apy.plasma.finance/#/savings](https://apy.plasma.finance/#/quadrat))
 #### IDO
 - [SpacePort](https://apy.plasma.finance/#/spaceport)
 - [Innovation Hub](https://apy.plasma.finance/#/innovation-hub)
@@ -155,5 +156,6 @@ Telegram: [Announcement Group](https://t.me/OxPlasma), [Chat](https://t.me/OxPla
 #### PPAY
  - [Ethereum (ERC20)](https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2)
  - [Polygon](https://polygonscan.com/token/0x08158a6b5d4018340387d1a302f882e98a8bc5b4)
+ - [BSC chain](https://bscscan.com/token/0xfb288d60d3b66f9c3e231a9a39ed3f158a4269aa)
 #### xPPAY
  - [Ethereum (ERC20)](https://etherscan.io/token/0x9fd1d329bb687fef164f529f6f6dcd6f69e7b978)
