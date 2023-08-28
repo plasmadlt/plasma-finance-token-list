@@ -75,10 +75,10 @@
       "description": "Play to earn games rely on blockchain technology, including in the form of NFTs, as the foundation for value creation"
     }
   },
-  "timestamp": "2023-07-16T11:50:04+00:00",
+  "timestamp": "2023-07-20T11:50:04+00:00",
   "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
   "version": {
-    "major": 21,
+    "major": 22,
     "minor": 2,
     "patch": 0
   },
@@ -12468,6 +12468,38 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "name": "Kromatika",
+      "address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
+      "symbol": "KROM",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789.png"
+    },
+    {
+      "name": "Kromatika",
+      "address": "0x55fF62567f09906A85183b866dF84bf599a4bf70",
+      "symbol": "KROM",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x55fF62567f09906A85183b866dF84bf599a4bf70.png"
+    },
+    {
+      "name": "Kromatika",
+      "address": "0x14Af1F2f02DCcB1e43402339099A05a5E363b83c",
+      "symbol": "KROM",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x14Af1F2f02DCcB1e43402339099A05a5E363b83c.png"
+    },
+    {
+      "name": "Kromatika",
+      "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
+      "symbol": "KROM",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xF98dCd95217E15E05d8638da4c91125E59590B07.png"
     }
   ]
 }
